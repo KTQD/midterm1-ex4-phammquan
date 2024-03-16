@@ -50,8 +50,9 @@ public class Main implements Runnable {
             for (Thread thread : threads) {
                 thread.join();
             }
-            System.out.println("Tổng các phần tử trong mảng: " + sum);
+            
             System.out.println("Phần tử lớn nhất trong mảng: " + max);
+                System.out.println("Tổng các phần tử trong mảng: " + sum);
         }
     }
 
