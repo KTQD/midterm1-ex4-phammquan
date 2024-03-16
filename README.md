@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/beAnLBCv)
 # Yêu cầu
 Viết một chương trình sử dụng 2 luồng để tính toán  các phần tử trong một mảng số nguyên đã cho.
 - Luồng 1 tính tổng của các phần tử
